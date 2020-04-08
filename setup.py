@@ -16,5 +16,5 @@ setup(
     #license="MIT",
     url="https://github.com/adxpillar/lambdata-adx",
     #keywords="",
-    packages=find_packages() # ["my_lambdata"]
+    packages=find_packages() # ["obatala"]
 )
