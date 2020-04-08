@@ -10,3 +10,4 @@ print(df.head())
 
 print(spltr(df))
 
+    

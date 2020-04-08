@@ -1,4 +1,3 @@
-import pandas 
 
 def spltr(X):
 
@@ -17,10 +16,10 @@ def spltr(X):
 
     return X
 
-# # d = splitter(df)
-# # print(d)
-# if __name__ == "__main__":
-#     df = spltr(df)
-#     print(df.head())
+# d = splitter(df)
+# print(d)
+if __name__ == "__main__":
+    df = spltr(df)
+    print(df.head())
 
 
