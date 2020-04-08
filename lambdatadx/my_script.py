@@ -1,6 +1,6 @@
 import pandas
 
-from obatala.splitter import spltr
+from lambdatadx.splitter import spltr
 
 print("Here is your dataframe")
 
