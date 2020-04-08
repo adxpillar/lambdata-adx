@@ -1,8 +1,8 @@
 # lambdata-adx
-Python module and package
+lambdatadx module and package
 
 ## Description 
-Python package for train-test split 
+Python package for datetime split 
 
 ## Installation 
 
