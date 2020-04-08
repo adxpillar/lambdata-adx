@@ -7,7 +7,7 @@ Python package for datetime split
 ## Installation 
 
 ```sh
-pip install ______
+pip install -i https://test.pypi.org/simple/ lambdata-adx
 ```
 
 ## Usage 
