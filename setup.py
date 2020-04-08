@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setup(
-    name="obatala", # the name that you will install via pip
+    name="lambdata-adx", # the name that you will install via pip
     version="1.0",
     author="Olofin",
     author_email="olofin@adimula.com",
@@ -16,5 +16,5 @@ setup(
     #license="MIT",
     url="https://github.com/adxpillar/lambdata-adx",
     #keywords="",
-    packages=find_packages() # ["obatala"]
+    packages=find_packages() # ["lambdatadx"]
 )
